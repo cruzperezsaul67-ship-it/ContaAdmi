@@ -1,0 +1,31 @@
+	        #menuhorizl ul {
+			      list-style-type: none;
+				  padding-top:10px;
+				  background-color:#006400;
+				  height:27px;
+			}
+			#menuhorizl ul li {
+			      display:inline;
+			}
+			#menuhorizl li a {
+			      color:white;
+				  text-align: center;
+				  padding: 10px 10px 10px 10px ;
+				  text-decoration: none;
+			}
+			#menuhorizl li a:hover {
+			background-color:#3300FF;
+			}
+			div.polaroid {
+			    width: 700px;
+				box-shadow: 0 4px 8px rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0.50,0.50);
+				text-align: center;
+				background-color: salmon;
+				margin: auto;
+			}
+			div.container {
+			    padding: 3px;
+			}
+			#titulo {font-family:Arial; font-size:12pt; font-weight:bold}
+			#parrafo {font-family:Arial; font-size:14pt; text-align:justify; line-height: 1.5}
+
